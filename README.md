@@ -15,3 +15,4 @@ The CollieConnector framework consists of the following steps:
 - **Pinecone**: Vector search engine used for embedding storage and retrieval.
 - **OpenAI**: Provides the embedding API and GPT-based generative model.
 
+
